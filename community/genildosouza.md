@@ -1,4 +1,4 @@
-#Genildo Souza
+# Genildo Souza
 
 Técnico em Informática e Analista de Sistemas em Formação.
 
@@ -10,11 +10,12 @@ Técnico em Informática e Analista de Sistemas em Formação.
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsmicros/)
 
 
-## Servidor Windows | Rede de Computadores | Antivìrus | 
+# Servidor Windows | Rede de Computadores | Antivìrus | 
 
+## Se um homem não sabe para qual porto navega, nenhum vento lhe é favorável
 
 <code><img title="Composer" width="26px" src="https://cdn.worldvectorlogo.com/logos/composer.svg"/></code>
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
-<code><img title="Bootstrap" width="26px" src="https://getbootstrap.com/"/></code>
+<code><img title="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-1.svg"/></code>
 <code><img title="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></code>
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
