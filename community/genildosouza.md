@@ -26,7 +26,9 @@
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></code>
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
+<code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
 <code><img title="Composer" width="26px" src="https://cdn.worldvectorlogo.com/logos/composer.svg"/></code>
+
 
 ## Linguagens de Marcação e Estilo
 <table>
@@ -37,6 +39,14 @@
     </tr>
   </thead>
   <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      </td>
+      <td>
+        <code>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code>
+      </td>
+    </tr>
     <tr>
       <td>
         <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
@@ -70,6 +80,47 @@
       </td>
     </tr>
     
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+## Novas Linguagues e Sistemas
+
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+      </td>
+      <td>
+        <code>![Markdown](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="ReactNavite" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      </td>
+      <td>
+        <code>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      </td>
+      <td>
+        <code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+         
   </tbody>
   <tfoot></tfoot>
 </table>
